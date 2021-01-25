@@ -7,7 +7,7 @@ The goal of this analysis is to answer the following:
 - What type of malware is more prominant in the year of the pandemic vs the previous year
 - Which tld is most seen this year related to malicious threats
 - Based on analysis are there any specifc hunts organization can perform to identify traffic going to risky domains.
-- Based on analysis are there any detections organizations can put in place to
+- Based on analysis are there any detections organizations can put in place to aid in threat detection.
 
 
 Analysis Breakdown
