@@ -10,7 +10,8 @@ The goal of this project was to analyze submissions to URL HAUS to identify whic
 
 
 Project Breakdown:
-- Data Exploration
-- Data Cleaning
-- Analysis
+- Data Exploration [Completed]
+- Data Cleaning [Completed]
+- Analysis [ In progress]
 - Reporting and Visualization
+
