@@ -16,7 +16,7 @@ Some questions this project will look to answer is:
 Project Breakdown:
 - Data Exploration [Completed]
 - Data Cleaning [Completed]
-- Analysis [ In progress]
-- Reporting and publication
+- Analysis [ Completed]
+- Reporting and publication [In Progress]
 
 
