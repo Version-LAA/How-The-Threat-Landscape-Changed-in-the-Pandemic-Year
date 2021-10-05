@@ -17,6 +17,7 @@ Project Breakdown:
 - Data Exploration [Completed]
 - Data Cleaning [Completed]
 - Analysis [ Completed]
-- Reporting and publication [In Progress]
+- Reporting and publication is completed and can be found here! https://lat-jamison.medium.com/how-much-has-the-cyberthreat-landscape-changed-during-the-pandemic-55407d11c1dd
+
 
 
